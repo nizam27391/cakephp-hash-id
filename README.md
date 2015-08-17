@@ -1,1 +1,3 @@
-# cakephp-hash-id
+# CakePHP Hash Id 
+######(pronounced CakePHP Hash It)
+***
