@@ -1,0 +1,1 @@
+# cakephp-hash-id
